@@ -1,0 +1,19 @@
+.feedbacks {
+    display: flex;
+    justify-content: space-around;
+}
+
+.feedBtn {
+    width: 30%;
+    height: 35px;
+    border-radius: 25px;
+    border: none;
+    background-color: #4C4CFF;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+.feedBtn:hover {
+    background-color: rgb(62, 62, 202)
+}
